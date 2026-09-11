@@ -1,0 +1,19 @@
+# Binaries
+client
+server
+*.out
+
+# Temporary files
+*.o
+*.log
+
+# LaTeX generated files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+
+# OS/editor
+.DS_Store
+.vscode/

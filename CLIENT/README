@@ -1,0 +1,2 @@
+Para compilar usar:
+cc cliente.c utils.c -o cliente

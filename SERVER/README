@@ -1,0 +1,2 @@
+Para compilar el servidor usar:
+cc server.c utils.c -o server

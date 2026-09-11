@@ -16,4 +16,5 @@
 
 ### Cliente
 ```bash
-gcc client/cliente.c client/utils.c -o client/client
+Linux: gcc client/cliente.c client/utils.c -o client/client
+Windows: cc client/cliente.c client/utils.c -o client/client

@@ -61,9 +61,6 @@ uint32_t transform_integer_to_big_endian(int original_int){
         memory[2],
         memory[3]
     );
-
-
-
     // Se van a separar todos los bytes por separado y se recorreran inversamente. 
     // Esto con el fin de pasar de little endian a big endian.
 
